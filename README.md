@@ -1,4 +1,4 @@
-# talking_data_ensemble
+# talking_data_fraud_detection
 Understanding the Business Problem
 TalkingData is a Chinese big data company, and one of their areas of expertise is mobile advertisements.
 
